@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Planner — project &amp; team workspace (demo)</title>
+<meta name="description" content="Interactive demo of a project planner: board, roadmap, team workload and metrics. 100% fictional data.">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div class="app">
+  <aside class="side" id="side"></aside>
+  <div class="main">
+    <header class="topbar" id="topbar"></header>
+    <main class="view" id="view"></main>
+  </div>
+</div>
+<div class="scrim" id="scrim"></div>
+<aside class="drawer" id="drawer" aria-label="Task details"></aside>
+<div class="card modal" id="modal"></div>
+<div class="card notif-pop" id="notifs"></div>
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+<script src="js/views.js"></script>
+<script>PD.start();</script>
+</body>
+</html>
