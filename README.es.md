@@ -14,7 +14,7 @@ Este repositorio es una **demo estática y autocontenida** (HTML/CSS/JS puro, si
 
 ## El problema
 
-Los equipos en crecimiento terminan pagando licencias por usuario de herramientas como **Jira** o **monday.dev** y, aun así, siguen llevando media operación en hojas de cálculo porque la herramienta es demasiado pesada, rígida o cara para darla a todos. Resultado: datos dispersos, ningún lugar donde ver quién está sobrecargado y gerentes que arman a mano los reportes de avance.
+Los equipos en crecimiento terminan pagando licencias por usuario de herramientas comerciales de gestión de proyectos y, aun así, siguen llevando media operación en hojas de cálculo porque la herramienta es demasiado pesada, rígida o cara para darla a todos. Resultado: datos dispersos, ningún lugar donde ver quién está sobrecargado y gerentes que arman a mano los reportes de avance.
 
 ## La solución
 
@@ -30,7 +30,7 @@ Un solo espacio que responde lo que los gerentes realmente preguntan:
 
 ## Qué reemplazó
 
-La versión de producción de esta idea (Google Sheets + Apps Script, construida y operada por mí para un equipo de TI) **reemplazó licencias de Jira y monday.dev**: los datos viven en una hoja de cálculo que la empresa ya posee, los permisos se validan en el servidor y las notificaciones usan las herramientas que la gente ya utiliza. Esta demo pública recrea la *experiencia* con datos inventados; no contiene código ni datos de ese sistema.
+La versión de producción de esta idea (Google Sheets + Apps Script, construida y operada por mí para un equipo de TI) **reemplazó licencias por usuario de herramientas comerciales de gestión de proyectos**: los datos viven en una hoja de cálculo que la empresa ya posee, los permisos se validan en el servidor y las notificaciones usan las herramientas que la gente ya utiliza. Esta demo pública recrea la *experiencia* con datos inventados; no contiene código ni datos de ese sistema.
 
 ## Capturas
 
