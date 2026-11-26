@@ -14,7 +14,7 @@ This repository is a **self-contained, static demo** (plain HTML/CSS/JS, no buil
 
 ## The problem
 
-Growing teams end up paying per-user licences for tools such as **Jira** or **monday.dev**, then still run half their work from spreadsheets because the tool is too heavy, too rigid or too expensive to give to everyone. The result: scattered data, no single view of who is overloaded, and managers who rebuild status reports by hand.
+Growing teams end up paying per-user licences for commercial project-management tools, then still run half their work from spreadsheets because the tool is too heavy, too rigid or too expensive to give to everyone. The result: scattered data, no single view of who is overloaded, and managers who rebuild status reports by hand.
 
 ## The solution
 
@@ -30,7 +30,7 @@ One workspace that answers the questions managers actually ask:
 
 ## What it replaced
 
-The production version of this idea (Google Sheets + Apps Script, built and run by me for an IT team) **replaced Jira and monday.dev licences**: the data stays in a spreadsheet the company already owns, permissions are enforced server-side, and notifications go through the tools people already use. This public demo recreates the *experience* with invented data — it does not contain any code or data from that system.
+The production version of this idea (Google Sheets + Apps Script, built and run by me for an IT team) **replaced the per-user licences of commercial project-management tools**: the data stays in a spreadsheet the company already owns, permissions are enforced server-side, and notifications go through the tools people already use. This public demo recreates the *experience* with invented data — it does not contain any code or data from that system.
 
 ## Screenshots
 
