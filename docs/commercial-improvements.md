@@ -12,7 +12,7 @@ What a buyer (a manager or a founder) judges in the first 30 seconds, and what t
 6. **Metrics that mean something.** Project health (On track / At risk / Behind) is computed from progress vs elapsed time and overdue work, not typed by hand.
 7. **Polish that signals quality.** Consistent design tokens, light/dark themes, EN/ES toggle, drawer detail panel with comments, empty and filtered states, notifications panel, keyboard `Esc`, responsive layout.
 8. **Zero-friction trial.** No sign-up, no install, no build: open the file. Deep links (`?lang=es&theme=dark&group=project#board`) let a salesperson open the exact view for each prospect.
-9. **A pricing story.** Flat, no per-seat cost — the contrast with per-user licences (Jira, monday.dev) is the headline of the README.
+9. **A pricing story.** Flat, no per-seat cost — the contrast with per-user licences of commercial project-management tools is the headline of the README.
 
 Suggested next steps: saved views and filters, dependencies and a Gantt critical path, automations (e.g. "move to Review when all subtasks are done"), Google Calendar sync, CSV/Sheets export, and a guided demo tour.
 
@@ -28,6 +28,6 @@ Lo que un comprador (gerente o fundador) evalúa en los primeros 30 segundos, y 
 6. **Métricas con sentido.** La salud del proyecto (En curso / En riesgo / Atrasado) se calcula con el avance frente al tiempo transcurrido y el trabajo vencido, no se escribe a mano.
 7. **Acabado que transmite calidad.** Tokens de diseño consistentes, tema claro/oscuro, selector EN/ES, panel de detalle con comentarios, estados vacíos y filtrados, panel de notificaciones, tecla `Esc`, diseño adaptable.
 8. **Prueba sin fricción.** Sin registro, instalación ni compilación: se abre el archivo. Los enlaces directos (`?lang=es&theme=dark&group=project#board`) permiten abrir la vista exacta para cada prospecto.
-9. **Una historia de precio.** Costo plano, sin cobro por usuario: el contraste con las licencias por usuario (Jira, monday.dev) es el titular del README.
+9. **Una historia de precio.** Costo plano, sin cobro por usuario: el contraste con las licencias por usuario de herramientas comerciales de gestión de proyectos es el titular del README.
 
 Siguientes pasos sugeridos: vistas y filtros guardados, dependencias y ruta crítica en Gantt, automatizaciones (p. ej. "pasar a Revisión cuando todas las subtareas estén hechas"), sincronización con Google Calendar, exportación a CSV/Sheets y un recorrido guiado de la demo.
