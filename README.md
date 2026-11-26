@@ -1,6 +1,6 @@
 # Planner — project & team workspace (interactive demo)
 
-> 🇪🇸 [Leer en español](README.es.md)
+> [Leer en español](README.es.md)
 
 ![Planner demo](assets/demo.gif)
 
