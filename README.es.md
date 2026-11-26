@@ -1,6 +1,6 @@
 # Planner — espacio de proyectos y equipo (demo interactiva)
 
-> 🇬🇧 [Read in English](README.md)
+> [Read in English](README.md)
 
 ![Demo de Planner](assets/demo.gif)
 
